@@ -9,6 +9,7 @@
     <!-- Font Awesome Icons -->
     <link rel="stylesheet" href="{{asset('sevag/admin/plugins/fontawesome-free/css/all.min.css')}}">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/admin-lte@3.1/dist/css/adminlte.min.css">
+    <link rel="stylesheet" href="{{asset('sevag/admin/css/app.css')}}">
 </head>
 <body class="hold-transition sidebar-mini">
     <div class="wrapper">
