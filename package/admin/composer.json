@@ -1,0 +1,19 @@
+{
+    "name": "sevag/admin",
+    "description": "Admin Panel for Laravel",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sevag Akelian",
+            "email": "akelian.sevag@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "sevag\\admin\\": "src/"
+        }
+    }
+}
